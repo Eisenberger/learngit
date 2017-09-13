@@ -3,3 +3,5 @@ this is the test text file 2!!
 this is bug on test2!!;
 
 this is bug on test3!!
+
+this is the test text 4!!
